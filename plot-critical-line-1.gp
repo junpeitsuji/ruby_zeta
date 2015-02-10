@@ -1,3 +1,6 @@
+# Gnuplot 用のスクリプト
+# クリティカル・ライン上のゼータ関数の絶対値をプロットする
+
 set datafile separator ','
 
 set xrange [0:100]

@@ -1,3 +1,6 @@
+# Gnuplot 用のスクリプト
+# クリティカル・ライン上のゼータ関数の複素数値を線でプロットする
+
 set datafile separator ','
 #set key left top
 

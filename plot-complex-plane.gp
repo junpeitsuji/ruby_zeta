@@ -1,3 +1,6 @@
+# Gnuplot 用のスクリプト
+# 複素数平面上のゼータ関数の絶対値をカラーマップで表示する
+
 set datafile separator ','
 set pm3d
 
