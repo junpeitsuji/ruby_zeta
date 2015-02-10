@@ -87,6 +87,6 @@ def zeta_main_2
 	end
 end
 
-# 実行
+# 実行する関数だけをコメントアウトする
 #zeta_main
 #zeta_main_2
